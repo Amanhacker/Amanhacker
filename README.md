@@ -1,4 +1,4 @@
-### Hola, I'm Aman Barnwal! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hola, I'm Aman Barnwal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Aman Barnwal and I am a Software Engineer at PayPal. I 🎓graduated from NIT Trichy in 2020 with a Bachelor of Technology focused in Electrical and Electronics Engineering with minor in CSE. 
 
