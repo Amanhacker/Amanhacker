@@ -25,9 +25,9 @@ My name is Aman Barnwal and I am a Software Engineer at PayPal. I 🎓graduated 
 
 ## 📈 GitHub Stats
 
-![Aman's GiHhub stats](https://github-readme-stats.vercel.app/api?username=Amanhacker&show_icons=true&theme=radical&hide=contribs,prs&count_private=true)
+![Aman's GiHhub stats](github-readme-stats1-pink.vercel.app/api?username=Amanhacker&show_icons=true&theme=radical&hide=contribs,prs&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanhacker&layout=compact)](https://github.com/Amanhacker/github-readme-stats)
+[![Top Langs](github-readme-stats1-pink.vercel.app/api/top-langs/?username=Amanhacker&layout=compact)](https://github.com/Amanhacker/github-readme-stats)
 
 - 📫 How to reach me:
 <!-- Actual text -->
